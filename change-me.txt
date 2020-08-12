@@ -2,4 +2,5 @@ Change this file for your test commits.
 
 History 1
 Add focused change 1
+Add focused change 2
 
