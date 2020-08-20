@@ -1,0 +1,8 @@
+# Add your Git related questions:
+
+1. Amend, rebase, squash, force push, hard/soft reset
+2. Rewriting PR history in case the squash/rebase goes wrong
+3. Can’t find commit (cherry-pick) or tag
+4. An example of use of git rerere !!!
+5. Git bisect (and if there is any automation related to it)
+
