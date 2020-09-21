@@ -1,8 +1,9 @@
 # Add your Git related questions:
 
-1. Amend, rebase, squash, force push, hard/soft reset
+1. Amend, rebase, squash, force push, hard/soft reset, stash
 2. Rewriting PR history in case the squash/rebase goes wrong
 3. Can’t find commit (cherry-pick) or tag
 4. An example of use of git rerere !!!
 5. Git bisect (and if there is any automation related to it)
-
+6. An overview of GitHub CLI
+7. What is the difference between HEAD, the working tree and the index?
